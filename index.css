@@ -11,5 +11,6 @@ body{
     background-color: green;
 }
 .main-window{
- 
+    width: 420px;
+    background-color: orange;
 }
